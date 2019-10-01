@@ -1,0 +1,21 @@
+# Version: 5.14.0.114 (d16-2): c6691164)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/5.14.0.114/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/5.14.0.114/lib/mmp/mmp.exe \
+	/verbose \
+	' /debug' \
+	/output:/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/bin/Debug/ \
+	/name:test \
+	' /profile:Xamarin.Mac,Version=v2.0,Profile=Mobile' \
+	' /arch:x86_64' \
+	' --http-message-handler=HttpClientHandler' \
+	' /minos=10.14' \
+	' /nolink' \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Facades/System.Drawing.Common.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/root-assembly:/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/bin/Debug/test.exe \
+	/sdkroot:/Applications/Xcode.app/Contents/Developer \
+	--cache:/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/mmp-cache \
+	@/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/response-file.rsp \

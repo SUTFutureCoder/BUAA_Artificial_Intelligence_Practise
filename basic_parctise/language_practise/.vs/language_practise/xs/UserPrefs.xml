@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2B911E29-49E4-435B-A70A-9521DD8205CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="language_practise/OperatorsAppl.cs">
+    <Files>
+      <File FileName="language_practise/Program.cs" Line="8" Column="12" />
+      <File FileName="language_practise/RectangleApplication.cs" />
+      <File FileName="language_practise/ExplicitConversion.cs" Line="30" Column="12" />
+      <File FileName="language_practise/OperatorsAppl.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="language_practise" expanded="True">
+            <Node name="language_practise" expanded="True">
+              <Node name="OperatorsAppl.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.language__practise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

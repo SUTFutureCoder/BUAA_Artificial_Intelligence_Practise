@@ -1,0 +1,9 @@
+Y:\Github\BUAA_Artificial_Intelligence_Practise\VoiceRec\voiceai\bin\Debug\voiceai.exe
+Y:\Github\BUAA_Artificial_Intelligence_Practise\VoiceRec\voiceai\bin\Debug\voiceai.pdb
+Y:\Github\BUAA_Artificial_Intelligence_Practise\VoiceRec\voiceai\obj\Debug\voiceai.csprojAssemblyReference.cache
+Y:\Github\BUAA_Artificial_Intelligence_Practise\VoiceRec\voiceai\obj\Debug\voiceai.Form1.resources
+Y:\Github\BUAA_Artificial_Intelligence_Practise\VoiceRec\voiceai\obj\Debug\voiceai.Properties.Resources.resources
+Y:\Github\BUAA_Artificial_Intelligence_Practise\VoiceRec\voiceai\obj\Debug\voiceai.csproj.GenerateResource.cache
+Y:\Github\BUAA_Artificial_Intelligence_Practise\VoiceRec\voiceai\obj\Debug\voiceai.csproj.CoreCompileInputs.cache
+Y:\Github\BUAA_Artificial_Intelligence_Practise\VoiceRec\voiceai\obj\Debug\voiceai.exe
+Y:\Github\BUAA_Artificial_Intelligence_Practise\VoiceRec\voiceai\obj\Debug\voiceai.pdb

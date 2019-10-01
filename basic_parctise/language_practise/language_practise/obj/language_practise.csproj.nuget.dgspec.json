@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/language_practise/language_practise/language_practise.csproj": {}
+  },
+  "projects": {
+    "/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/language_practise/language_practise/language_practise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/language_practise/language_practise/language_practise.csproj",
+        "projectName": "language_practise",
+        "projectPath": "/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/language_practise/language_practise/language_practise.csproj",
+        "packagesPath": "/Users/baidu/.nuget/packages/",
+        "outputPath": "/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/language_practise/language_practise/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/baidu/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

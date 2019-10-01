@@ -1,0 +1,13 @@
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/bin/Debug/test.exe
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/bin/Debug/test.pdb
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/actool/_PartialAppManifest.items
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/test.csprojAssemblyReference.cache
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/test.csproj.CoreCompileInputs.cache
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/test.exe
+/Users/baidu/Github/BUAA_Artificial_Intelligence_Practise/basic_parctise/test/test/obj/Debug/test.pdb
