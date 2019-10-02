@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{01BA7F62-4DBB-4BFB-B2CB-605D0EE161F4}</ProjectGuid>
+    <ProjectGuid>{70EEEC6E-9A6D-40FC-8A76-977CB6997CFA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>prcturebox_practice</RootNamespace>
-    <AssemblyName>prcturebox_practice</AssemblyName>
+    <RootNamespace>section1_voice</RootNamespace>
+    <AssemblyName>section1_voice</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -33,10 +33,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AipSdk">
-      <HintPath>..\..\..\..\Downloads\aip-csharp-sdk-3.4.0 (1)\net40\AipSdk.dll</HintPath>
+      <HintPath>..\..\..\Downloads\aip-csharp-sdk-3.4.0 (1)\net40\AipSdk.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\..\Downloads\aip-csharp-sdk-3.4.0 (1)\net40\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\..\Downloads\aip-csharp-sdk-3.4.0 (1)\net40\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -79,6 +79,30 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="resource\16k-23850.amr" />
+    <None Include="resource\16k.pcm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="resource\16k.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
