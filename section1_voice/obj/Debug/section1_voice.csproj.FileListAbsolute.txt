@@ -16,3 +16,7 @@ Y:\Github\BUAA_Artificial_Intelligence_Practise\section1_voice\bin\Debug\AxInter
 Y:\Github\BUAA_Artificial_Intelligence_Practise\section1_voice\obj\Debug\Interop.WMPLib.dll
 Y:\Github\BUAA_Artificial_Intelligence_Practise\section1_voice\obj\Debug\AxInterop.WMPLib.dll
 Y:\Github\BUAA_Artificial_Intelligence_Practise\section1_voice\obj\Debug\section1_voice.csproj.ResolveComReference.cache
+Y:\Github\BUAA_Artificial_Intelligence_Practise\section1_voice\bin\Debug\section1_voice.exe.manifest
+Y:\Github\BUAA_Artificial_Intelligence_Practise\section1_voice\bin\Debug\section1_voice.application
+Y:\Github\BUAA_Artificial_Intelligence_Practise\section1_voice\obj\Debug\section1_voice.exe.manifest
+Y:\Github\BUAA_Artificial_Intelligence_Practise\section1_voice\obj\Debug\section1_voice.application

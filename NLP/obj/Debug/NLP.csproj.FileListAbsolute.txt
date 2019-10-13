@@ -1,0 +1,13 @@
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\bin\Debug\NLP.exe
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\bin\Debug\NLP.pdb
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\bin\Debug\AipSdk.dll
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\bin\Debug\Newtonsoft.Json.dll
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\bin\Debug\AipSdk.pdb
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\obj\Debug\NLP.csprojAssemblyReference.cache
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\obj\Debug\NLP.Form1.resources
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\obj\Debug\NLP.Properties.Resources.resources
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\obj\Debug\NLP.csproj.GenerateResource.cache
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\obj\Debug\NLP.csproj.CoreCompileInputs.cache
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\obj\Debug\NLP.csproj.CopyComplete
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\obj\Debug\NLP.exe
+Y:\Github\BUAA_Artificial_Intelligence_Practise\NLP\obj\Debug\NLP.pdb
